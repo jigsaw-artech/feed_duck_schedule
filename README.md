@@ -6,3 +6,4 @@ Schedule to feed your duck
 3. https://learn.microsoft.com/en-us/dotnet/fundamentals/
 4. https://learn.microsoft.com/en-us/ef/dotnet-data/
 5. https://learn.microsoft.com/en-us/dotnet/framework/
+6. https://learn.microsoft.com/en-us/dotnet/csharp/
