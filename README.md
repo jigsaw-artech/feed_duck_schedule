@@ -8,3 +8,4 @@ Schedule to feed your duck
 5. https://learn.microsoft.com/en-us/dotnet/framework/
 6. https://learn.microsoft.com/en-us/dotnet/csharp/
 7. https://github.com/dotnet
+8. https://github.com/dotnet/eShop
